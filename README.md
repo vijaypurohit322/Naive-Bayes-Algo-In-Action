@@ -4,3 +4,11 @@ Objective: - The main objective behind the selection of this topic is to analyse
 opportunities, health, communication, interaction, enhancing skills, and online shopping.
 
 About Dataset: - Social-sites-user Dataset has user’s information regarding name, numbers of hours daily spent on social sites/applications which includes (Facebook, Instagram, twitter, WhatsApp), awareness % (daily how much knowledge user gained by using social platforms), Result (describe impact on their studies).
+
+
+### This was a team work, which is done by :
+
+Ms. Kanupriya Sharma 
+Ms. Shivali Bajaj
+Mr. Yash Masih
+Vijay Singh Purohit (Me)
