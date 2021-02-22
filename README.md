@@ -12,3 +12,7 @@ Ms. Kanupriya Sharma <br/>
 Ms. Shivali Bajaj <br/>
 Mr. Yash Masih <br/>
 Vijay Singh Purohit (Me)
+
+
+---------------
+[Follow me](https://github.com/vijaypurohit322/) for more updates.
