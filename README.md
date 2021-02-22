@@ -8,7 +8,7 @@ About Dataset: - Social-sites-user Dataset has user’s information regarding na
 
 ### This was a team work, which is done by :
 
-Ms. Kanupriya Sharma 
-Ms. Shivali Bajaj
-Mr. Yash Masih
+Ms. Kanupriya Sharma <br/>
+Ms. Shivali Bajaj <br/>
+Mr. Yash Masih <br/>
 Vijay Singh Purohit (Me)
