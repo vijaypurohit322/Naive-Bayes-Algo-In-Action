@@ -13,7 +13,6 @@ Ms. Shivali Bajaj <br/>
 Mr. Yash Masih <br/>
 Vijay Singh Purohit (Me)
 
-## Guided by - 
-Mr. Kapil Sharma
+## Guided by - Mr. Kapil Sharma
 ---------------
 [Follow me](https://github.com/vijaypurohit322/) for more updates.
